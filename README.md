@@ -40,6 +40,8 @@ Use your own keyboard software to call the vbs script.
 
 ## Behavior
 
+Toggle behavior, if the program is muted then calling the program will unmute it and vice-versa.
+
 The purpose of this program is to be completely silent, there is no **success**, **warning** nor **error** notification.
 If there is no foreground program, calling this program will have __no effect__.
 
